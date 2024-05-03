@@ -16,7 +16,7 @@
         "2606:4700:110:8a17:9b3:a57e:421d:ea9e/128"
       ],
       "private_key": "cABcbzQ3xF4ZL/mbksRY3o2dXBVhbB9LgH/5bUGX0XE=",
-      "peer_public_key": "",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [ 0, 223, 62 ],
 
       "mtu": 1280,
