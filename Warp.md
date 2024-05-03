@@ -1,4 +1,6 @@
 //profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0;
 
 {
   "outbounds": 
