@@ -7,8 +7,8 @@
     {
       "type": "wireguard",
       "tag": "Warp-IR",
-      "server": "188.114.97.16",
-      "server_port": 5956,
+      "server": "188.114.98.65",
+      "server_port": 8742,
 
       "local_address": [
         "172.16.0.2/32",
@@ -25,8 +25,8 @@
       "type": "wireguard",
       "tag": "Warp-Main",
       "detour": "Warp-IR",
-      "server": "188.114.97.16",
-      "server_port": 5956,
+      "server": "188.114.98.65",
+      "server_port": 8742,
       
       "local_address": [
           "172.16.0.2/32",
