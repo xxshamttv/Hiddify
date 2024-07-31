@@ -1,21 +1,20 @@
 //profile-title: base64:8J+UpSBXQVJQIPCflKU=
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=
 
 {
-  "outbounds":   
-  [
+  "outbounds":   [
     {
       "type": "wireguard",
       "tag": "M4-Version",
       "local_address":       [
         "172.16.0.2/24",
-        "2606:4700:110:826e:e782:fd2d:7d6d:194a/128"
+        "2606:4700:110:86a5:7c2a:fc03:e8a6:9d8f/128"
       ],
-      "private_key": "kP92iDNfETOE+m58hRRUjJwrGCgLIymovLD/C7wotFo=",
-      "server": "162.159.192.205",
-      "server_port": 1002,
+      "private_key": "KFshL65/4Lxu/YRnIJLlW0LtsLc5/PzCJ2NUOmnkAGM=",
+      "server": "188.114.97.170",
+      "server_port": 4500,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "4CZj",
+      "reserved": "H6vm",
       "mtu": 1330,
       "fake_packets": "40-80",
       "fake_packets_size": "40-100",
@@ -24,18 +23,18 @@
     },
     {
       "type": "wireguard",
-      "tag": "Warp On Warp",
-      "detour": "M4-Version",
+      "tag": "Warp-Main",
+      "detour": "M4-version",
       "local_address":       [
         "172.16.0.2/24",
-        "2606:4700:110:8844:a804:d6a9:e4b8:aa55/128"
+        "2606:4700:110:8da8:5876:db1b:ff85:5c2a/128"
       ],
-      "private_key": "wDAC90wSFySF9ac8FuWexuLinOhViqJl3lnLbrI7xFM=",
-      "server": "162.159.192.205",
-      "server_port": 1002,
+      "private_key": "eDMFKoZRaZJ0M7u6m+EG+5vyTXCo32VWoZ3PBXOoKUA=",
+      "server": "188.114.97.170",
+      "server_port": 968,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "JQJ/",
-      "mtu": 1280
+      "reserved": "OP/U",
+      "mtu": 1230
     }
   ]
 }
