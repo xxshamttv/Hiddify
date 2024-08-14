@@ -2,7 +2,7 @@
 //profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
-warp://p1@188.114.99.64:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#M4-Version&&detour=warp://p2@188.114.99.64:903#Warp-Main
+warp://p1@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#M4-Version&&detour=warp://p2@auto#Warp-Main
 
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
